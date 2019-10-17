@@ -10,3 +10,4 @@ probando correo
 probando ramas alternativas
 prueba2
 prueba3
+probando regla
